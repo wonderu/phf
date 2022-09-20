@@ -3,7 +3,7 @@
 
 Introduce project handover framework - checklist for getting the project from previous project manager. The best practice: to have all of this information updated in one place from the first day of your work.
 
-## What to ask?
+## What to handover?
 1. Product/Project Overview
 
 	- Functional and technical requirements   
