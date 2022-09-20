@@ -116,4 +116,4 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Logging
 
 ## What to read?
-	- [Michael D. Watkins. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded](https://read.amazon.com/kp/embed?asin=B00B6U63ZE&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_EG4M0PTG902P6RF9R2XS)
+Michael D. Watkins. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded. [Link](https://read.amazon.com/kp/embed?asin=B00B6U63ZE&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_EG4M0PTG902P6RF9R2XS)
