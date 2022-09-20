@@ -56,10 +56,10 @@ Introduce project handover framework - checklist for getting the project from pr
 1. Build and Release Management
    
 	- Build types
-	- One command build
+	- CI/CD
 	- VCS release and patch strategy
 	   
-1. Testing
+1. QA
    
 	- Test Environment
 	- Unit testing and code-coverage
@@ -71,9 +71,8 @@ Introduce project handover framework - checklist for getting the project from pr
 	   
 7. Deployment
    
-	- SaaS
-	- Hosted
-	- On-Premise
+	- SaaS / Hosted / On-Premise 
+	- Security checking
 	   
 1. Documentation
    
