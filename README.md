@@ -109,7 +109,7 @@ Introduce project handover framework - checklist for getting the project from pr
 1. Maintenance
     
 	- SLA
-  - Disaster Recovery Plan
+	- Disaster Recovery Plan
 	- Change Management
 	- Service Desk and incident escalation policies
 	- Monitoring
