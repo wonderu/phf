@@ -6,7 +6,7 @@ Introduce project handover framework - checklist for getting the project from pr
 ## What to handover?
 1. Product/Project Overview
 
-	- Functional and technical requirements   
+	- Functional and non-functional requirements   
 	- Use Cases
 	- Development Metrics
   
@@ -18,6 +18,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Personal development plans
 	- Vacation plans
 	- Education plans
+	- Succession chart
   
 1. Design
    
@@ -51,26 +52,28 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Complexity
 	- Exception Handling
 	- Logging
-	- Comments 
+	- Comments
+	- VCS strategy (e.g. gitflow)
 	   
 1. Build and Release Management
    
 	- Build types
 	- CI/CD
-	- VCS release and patch strategy
+	- Release and patch strategy
 	   
 1. QA
    
-	- Test Environment
 	- Unit testing and code-coverage
-	- Integration Testing
+	- Integration and API Testing
 	- Load Testing
 	- Build Verification Testing
 	- UI Testing
 	- Manual Functional Testing
+	- Quality gates
 	   
 7. Deployment
    
+	- Environments: DEV, QA, UAT, STAGING, PROD
 	- SaaS / Hosted / On-Premise 
 	- Security checking
 	   
@@ -93,7 +96,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Communication Management
 	- Assumptions and constraints
 	- RACI
-	- Reporting
+	- Reporting, Weekly status reports
 	- Common/Recurring Tasks
 	    
 1. System Administration
@@ -111,9 +114,15 @@ Introduce project handover framework - checklist for getting the project from pr
 	- SLA
 	- Disaster Recovery Plan
 	- Change Management
-	- Service Desk and incident escalation policies
+	- Service Desk, incident escalation policies
+	- Product Support flow
 	- Monitoring
 	- Logging
+1. Contract and Budget
+	- Contracts, Invoices, Promises
+	- Suppliers 
+	- Vendors
+	- Timesheets management
 
 ## What to read?
 Michael D. Watkins. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded. [Link](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
