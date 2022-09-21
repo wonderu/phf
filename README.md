@@ -92,6 +92,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Kickoff meeting presentation
 	- Key customers
 	- Roadmap
+	- Project plan and task tracker
 	- Risk Management
 	- Communication Management
 	- Assumptions and constraints
