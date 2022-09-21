@@ -82,6 +82,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- User Guide
 	- Developer Guide
 	- Setup Guide
+	- Integrations Description (API, RAML, Swagger links)
 	   
 1. Project management
    
