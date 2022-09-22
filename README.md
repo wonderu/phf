@@ -86,11 +86,10 @@ Introduce project handover framework - checklist for getting the project from pr
 	   
 1. Project management
    
-	- Project History
+	- Project History (Kickoff meeting presentation, meeting meenutes etc)
 	- Stakeholders
 	- SDLC Description
 	- Project Charter
-	- Kickoff meeting presentation
 	- Key customers
 	- Roadmap
 	- Project plan and task tracker
@@ -122,9 +121,9 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Logging
 1. Contract and Budget
 	- Contracts, Invoices, Promises
-	- Suppliers 
-	- Vendors
-	- Timesheets management
+	- Suppliers and thier contacts
+	- Vendors and thier contacts
+	- Timesheets management policy
 
 ## What to read?
 Michael D. Watkins. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded. [Link](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
