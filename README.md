@@ -9,6 +9,11 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Functional and non-functional requirements   
 	- Use Cases
 	- Development Metrics
+
++ value proposition hypothesis,  market & user researches
++ OKR/KPI и связка с roadmap
++ product backlog & prioritisation framework
++ CJM, ServiceBluePrint, Job/user stories,User story map
   
 1. Team
  
@@ -19,6 +24,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Vacation plans
 	- Education plans
 	- Succession chart
+	
   
 1. Design
    
@@ -27,7 +33,7 @@ Introduce project handover framework - checklist for getting the project from pr
 	- 3rd party products and interfaces
 	- Communications Strategy
 	- Languages and Scripts
-	- User Interface
+	- User Interface - имеется ввиду дизайн в figma? я бы отдельно выделила еще чтобы передали ui-kit, а не только дизайны сценариев 
 	- Design Constraints
 	- Performance
 	- Access, Roles and Authentication
@@ -99,6 +105,12 @@ Introduce project handover framework - checklist for getting the project from pr
 	- RACI
 	- Reporting, Weekly status reports
 	- Common/Recurring Tasks
+
+Возможно это входит в один из пунктов, но я бы прям отдельно прописала:
+task flow/jira flow
+Delivery/discovery proccess description
+DOD, DOR
+
 	    
 1. System Administration
     
@@ -124,6 +136,9 @@ Introduce project handover framework - checklist for getting the project from pr
 	- Suppliers and thier contacts
 	- Vendors and thier contacts
 	- Timesheets management policy
+
+
+кажется отдельно tools & services - описание инструментов и сервисов которые используются либо для управления либо для функционирования продукта и доступы к ним
 
 ## What to read?
 Michael D. Watkins. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded. [Link](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
