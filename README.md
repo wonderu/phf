@@ -29,9 +29,12 @@ Checklist for taking over a project from the previous project manager. For incom
 
 - [ ] 1. Product/Project Overview
 
+	- Value proposition hypothesis
+	- Market & user research (findings, reports, links)
 	- Functional and non-functional requirements
 	- Use Cases
 	- Business context, success criteria, scope boundaries, KPIs
+	- OKRs/KPIs and their connection to roadmap
 	- Development metrics (e.g. velocity, cycle time, defect rate, burndown)
 	- Pending work and deadlines (current tasks, upcoming milestones, overdue items, commitments)
   
@@ -124,12 +127,17 @@ Checklist for taking over a project from the previous project manager. For incom
 	   
 - [ ] 10. Project management
    
+	- **Project management tools and access** (Jira, Confluence, Miro, Notion, etc.) — where they live, who provisions access, links and logins
 	- Project History (Kickoff meeting presentation, meeting minutes etc)
 	- Stakeholders
 	- SDLC Description
 	- Project Charter
 	- Key customers
 	- Roadmap
+	- **Product backlog & prioritisation framework** (how backlog is ordered, who prioritises, cadence)
+	- **Discovery vs delivery process** — how discovery and delivery are run; task flow / Jira flow (e.g. board columns, statuses, transitions)
+	- **DOD (Definition of Done), DOR (Definition of Ready)** — where they are documented, how they are applied
+	- **Discovery & design artifacts**: CJM (Customer Journey Map), Service Blueprint, Job/user stories, User story map — location and ownership
 	- Project plan and task tracker (pending work, deadlines, commitments)
 	- Risk Management (known risks, open issues, things to watch)
 	- Meeting cadence, escalation paths
