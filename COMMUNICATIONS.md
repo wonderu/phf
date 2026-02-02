@@ -25,7 +25,7 @@ See also: [What to handover?](README.md#what-to-handover) → [10. Project manag
 	- Owner/facilitator
 	- Template or prompts (e.g. What did you do? What will you do? Blockers?)
 	- Where notes or updates are stored (if any)
-	- [Atlassian: How to run a standup](https://www.atlassian.com/team-playbook/plays/standup)
+	- [Atlassian: What is a stand up meeting & tips to run one](https://www.atlassian.com/agile/scrum/standups)
 
 - [ ] **Sprint / iteration planning**
 	- Cadence and duration
@@ -60,7 +60,7 @@ See also: [What to handover?](README.md#what-to-handover) → [10. Project manag
 - [ ] **1:1s**
 	- Cadence per role (e.g. PM–dev, PM–stakeholder)
 	- Who drives agenda, where follow-ups are tracked
-	- [Atlassian: One-on-one meetings](https://www.atlassian.com/blog/inside-atlassian/one-on-one-meeting-guide)
+	- [Atlassian: One-on-one meetings](https://www.atlassian.com/blog/inside-atlassian/1-on-1-meeting-tips)
 
 ---
 
@@ -71,7 +71,7 @@ See also: [What to handover?](README.md#what-to-handover) → [10. Project manag
 	- Audience (sponsor, steering, customers)
 	- Template and sections (summary, progress, risks, next period)
 	- Owner and distribution (email, Confluence, dashboard)
-	- [PMI: Project status reporting](https://www.pmi.org/learning/library/effective-project-status-reporting-7095)
+	
 
 - [ ] **Steering committee / sponsor updates**
 	- Cadence and duration
@@ -100,7 +100,7 @@ See also: [What to handover?](README.md#what-to-handover) → [10. Project manag
 	- When and how to escalate (blockers, risks, scope)
 	- Who is notified at each level
 	- Documented in project charter or wiki
-	- [PMI: Escalation management](https://www.pmi.org/learning/library/project-escalation-processes-7094)
+
 
 ---
 
@@ -151,5 +151,6 @@ Capture and hand over how to reach each team member (and key stakeholders) for d
 ## Further reading
 
 - [Atlassian Team Playbook](https://www.atlassian.com/team-playbook) — meetings and rituals
-- [PMI: Communications Management](https://www.pmi.org/learning/library/communications-management-9110) · [Project Communication: Five Steps](https://www.pmi.org/learning/library/project-communication-management-five-steps-5115)
+- [PMI: Communications Management](https://www.pmi.org/learning/library/communications-management-9110) · 
+- [Project Communication: Five Steps](https://www.pmi.org/learning/library/project-communication-management-five-steps-5115)
 - [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) — early stakeholder and team communication

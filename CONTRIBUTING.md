@@ -4,7 +4,7 @@ Contributions to the Project Handover Framework checklist are welcome.
 
 ## How to contribute
 
-- **Suggest a new checklist item**: Open an [issue](https://github.com/igorpodsekin/phf/issues) describing the item and where it fits (e.g. under Team, Design, QA).
+- **Suggest a new checklist item**: Open an [issue](https://github.com/wonderu/phf/issues) describing the item and where it fits (e.g. under Team, Design, QA).
 - **Fix a typo or wording**: Open a pull request with the change.
 - **Improve structure or docs**: Open a pull request or issue to discuss.
 
