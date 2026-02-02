@@ -196,7 +196,7 @@ Checklist for taking over a project from the previous project manager. For incom
 
 - Michael D. Watkins. *The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded*. [Link](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
 - PMBOK / PMI guidance on project closure and handover (for deeper process reference).
-- Knowledge handover checklist and project handover best practices (e.g. [Adapt Consulting](https://www.adaptconsultingcompany.com/), [GoSkills](https://www.goskills.com/Project-Management/Resources/Project-handover)).
+- Knowledge handover checklist and project handover best practices (e.g. [GoSkills](https://www.goskills.com/Project-Management/Resources/Project-handover)).
 
 ## Contributing / Feedback
 
